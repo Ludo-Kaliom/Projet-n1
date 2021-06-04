@@ -1,0 +1,40 @@
+h1 {
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+
+p {
+    font-size: medium;
+}
+
+body {
+    border: 15px solid #4472c4; 
+    background-color: white;
+    padding: 10px 10px;
+    float: left;
+}
+
+
+.bordure img {
+    text-align:left;
+    max-width: 100%;
+    height: auto;
+}
+
+.bordure h1 {
+    text-align:left;
+}
+
+
+.partiegauche {
+    width: 50%;
+    height:auto;
+    float: left;
+}
+
+.partiedroite{
+    width: 50%;
+    height:auto;
+    float: right;
+}
